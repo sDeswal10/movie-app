@@ -2,7 +2,7 @@ import React from "react";
 
 import "./error.scss";
 
-import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
+import ContentWrapper from "../../components/ContentWrapper/ContentWrapper"
 
 const Error = () => {
     return (
